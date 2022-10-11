@@ -20,7 +20,7 @@
         }
         private void button_click(object sender, EventArgs e)
         {
-            // Removes default "0" or "Undefined" when something is entered into textBoxResult.
+            // Removes default "0" or "Error" when something is entered into textBoxResult.
             if ((textBoxResult.Text == "0") | (textBoxResult.Text == "Error") | (isOperationPerformed))
                 textBoxResult.Clear();
             
