@@ -1,3 +1,5 @@
+# Calculator
+
 Program in action: https://youtu.be/odKDBLcFtEo
 
 A relatively simple calculator with a similar display to the Windows calculator - created using the Visual Studio Windows Forms template.
