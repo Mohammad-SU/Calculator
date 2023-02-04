@@ -28,7 +28,6 @@
             Button button = (Button)sender;
 
             // If "decimal" is clicked, enters period character. If "Ans" is clicked, enters last result if "C" did not clear it.
-            // Otherwise, a button's char/string corresponds with what it will enter.
             if (button.Text == "•")
             {
                 if (!textBoxResult.Text.Contains('.'))
