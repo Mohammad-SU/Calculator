@@ -4,7 +4,7 @@ Program in action: https://youtu.be/odKDBLcFtEo
 
 A relatively simple calculator with a similar display to the Windows calculator - created using the Visual Studio Windows Forms template.
 
-The main code I wrote:
+For some of the main code that I wrote:
 https://github.com/Mohammad-SU/Calculator-CSharp/blob/main/Calculator/Calculator/CalcForm.cs
 
 Future update ideas:
