@@ -2,6 +2,8 @@
 
 Program in action: https://youtu.be/odKDBLcFtEo
 
+![Calculator Screenshot](https://drive.google.com/drive/folders/1ANjaCdbHOdtlfJQpm0h3sXpahP54vwq5)
+
 A relatively simple calculator with a similar display to the Windows calculator - created using the Visual Studio Windows Forms template.
 
 For some of the main code that I wrote:
