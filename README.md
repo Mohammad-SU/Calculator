@@ -2,7 +2,7 @@
 
 Program in action: https://youtu.be/odKDBLcFtEo
 
-![Calculator Screenshot](Calculator-screenshot.png)
+![Calculator - Screenshot](Calculator-screenshot.png)
 
 A relatively simple calculator with a similar display to the Windows calculator - created using the Visual Studio Windows Forms template.
 
