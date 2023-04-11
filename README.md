@@ -12,5 +12,5 @@ https://github.com/Mohammad-SU/Calculator-CSharp/blob/main/Calculator/Calculator
 ### Future update ideas:
 - More functions/operations
 - Brackets
-- A better order of operations
 - A display of the complete expression on the top left of the calculator's display
+- Order of operations, after implementing the above feature
