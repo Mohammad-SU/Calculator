@@ -4,7 +4,7 @@
 
 ![Calculator - Screenshot](Calculator-screenshot.png)
 
-Desktop calculator developed with WinForms. Includes scientific functions.
+C# (.NET) – Desktop calculator developed with WinForms. Includes scientific functions.
 
 For some of the main code that I wrote:
 https://github.com/Mohammad-SU/Calculator-CSharp/blob/main/Calculator/Calculator/CalcForm.cs
