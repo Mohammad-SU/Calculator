@@ -4,7 +4,7 @@
 
 ![Calculator - Screenshot](Calculator-screenshot.png)
 
-A relatively simple calculator with a similar display to the Windows calculator - created using the Visual Studio Windows Forms template.
+A desktop calculator app created with Windows Forms. Includes some scientific functions.
 
 For some of the main code that I wrote:
 https://github.com/Mohammad-SU/Calculator-CSharp/blob/main/Calculator/Calculator/CalcForm.cs
